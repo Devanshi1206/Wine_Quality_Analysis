@@ -7,5 +7,5 @@ Each wine in this dataset is given a “quality” score between 0 and 10. For t
 either “good quality” (a score of 7 or higher) or not (a score below 7).
 
 The objectives of this project are as follows:
-To experiment with different classification methods to see which yields the highest accuracy
-To determine which features are the most indicative of a good quality wine
+1) To experiment with different classification methods to see which yields the highest accuracy
+2) To determine which features are the most indicative of a good quality wine
